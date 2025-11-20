@@ -1,0 +1,13 @@
+../source/Storage.c:93:13:storage_print_offset_info	8	static
+../source/Storage.c:122:13:storage_verify_flash_access	16	static
+../source/Storage.c:159:17:crc32_calculate	32	static
+../source/Storage.c:181:13:storage_read_from_flash	24	static
+../source/Storage.c:273:6:storage_has_valid_config	8	static
+../source/Storage.c:290:6:storage_read_wifi_config	16	static
+../source/Storage.c:324:6:storage_write_wifi_config	160	static
+../source/Storage.c:480:6:storage_erase_config	16	static
+../source/Storage.c:502:6:storage_init	8	static
+../source/Storage.c:520:10:storage_get_address	4	static
+../source/Storage.c:528:10:storage_get_size	4	static
+../source/Storage.c:536:6:storage_is_flash_accessible	4	static
+../source/Storage.c:544:6:storage_print_status	8	static

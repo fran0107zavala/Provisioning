@@ -1,0 +1,13 @@
+../source/socket_task.c:31:12:ip_port_str_to_sockaddr	56	static
+../source/socket_task.c:97:12:set_receive_timeout	48	static
+../source/socket_task.c:110:13:echo_udp	1568	static
+../source/socket_task.c:153:13:echo_loop_tcp	1528	static
+../source/socket_task.c:199:13:finish_thread	16	static
+../source/socket_task.c:213:13:tcp_connect_thread	24	static
+../source/socket_task.c:242:13:tcp_server_thread	24	static
+../source/socket_task.c:251:13:tcp_listen_thread	40	static
+../source/socket_task.c:320:13:udp_thread	24	static
+../source/socket_task.c:346:6:socket_task_set_shell	16	static
+../source/socket_task.c:351:5:socket_task_init	48	static
+../source/socket_task.c:407:6:socket_task_terminate	8	static
+../source/socket_task.c:415:6:socket_task_print_ips	32	static

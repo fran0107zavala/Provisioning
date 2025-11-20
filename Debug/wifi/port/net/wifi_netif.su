@@ -1,0 +1,17 @@
+C:\Users\fcoda\Documents\MCUXpressoIDE_25.6.136\workspace\frdmrw612_wifi_mqtt\wifi\incl\port\net/wm_net.h:515:20:net_is_ip_or_ipv6	16	static
+../wifi/port/net/wifi_netif.c:87:13:register_interface	16	static
+../wifi/port/net/wifi_netif.c:103:13:deliver_packet_above	24	static
+../wifi/port/net/wifi_netif.c:206:21:gen_pbuf_from_data	24	static
+../wifi/port/net/wifi_netif.c:234:13:process_data_packet	72	static
+../wifi/port/net/wifi_netif.c:493:6:handle_data_packet	16	static
+../wifi/port/net/wifi_netif.c:501:6:handle_amsdu_data_packet	24	static
+../wifi/port/net/wifi_netif.c:516:6:handle_deliver_packet_above	32	static
+../wifi/port/net/wifi_netif.c:524:6:wrapper_net_is_ip_or_ipv6	16	static
+../wifi/port/net/wifi_netif.c:537:13:low_level_init	40	static
+../wifi/port/net/wifi_netif.c:588:14:low_level_output	88	static
+../wifi/port/net/wifi_netif.c:763:5:net_wifi_pkt_fwd	16	static
+../wifi/port/net/wifi_netif.c:776:14:nxp_wifi_send	16	static
+../wifi/port/net/wifi_netif.c:812:14:igmp_mac_filter	56	static
+../wifi/port/net/wifi_netif.c:939:14:mld_mac_filter	56	static
+../wifi/port/net/wifi_netif.c:1067:7:lwip_netif_init	24	static
+../wifi/port/net/wifi_netif.c:1114:7:lwip_netif_uap_init	24	static

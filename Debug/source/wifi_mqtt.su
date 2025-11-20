@@ -1,0 +1,15 @@
+../source/wifi_mqtt.c:104:13:printSeparator	8	static
+../source/wifi_mqtt.c:109:13:LinkStatusChangeCallback	16	static
+../source/wifi_mqtt.c:121:13:prov_init	8	static
+../source/wifi_mqtt.c:127:21:prov_get_state	4	static
+../source/wifi_mqtt.c:132:13:prov_set_state	16	static
+../source/wifi_mqtt.c:137:13:prov_set_result	16	static
+../source/wifi_mqtt.c:152:13:prov_get_result	16	static
+../source/wifi_mqtt.c:176:13:trim_string	24	static
+../source/wifi_mqtt.c:191:13:parse_credentials	32	static
+../source/wifi_mqtt.c:233:13:http_srv_txt	16	static
+../source/wifi_mqtt.c:247:13:provisioning_server_task	552	static
+../source/wifi_mqtt.c:419:13:connect_wifi	32	static
+../source/wifi_mqtt.c:442:13:init_mdns_service	32	static
+../source/wifi_mqtt.c:485:13:main_task	272	static
+../source/wifi_mqtt.c:795:5:main	16	static
